@@ -1,0 +1,13 @@
+C:\Users\WB Sistemas\source\repos\Usuario\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\WB Sistemas\source\repos\Usuario\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\WB Sistemas\source\repos\Usuario\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\WB Sistemas\source\repos\Usuario\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\WB Sistemas\source\repos\Usuario\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\WB Sistemas\source\repos\Usuario\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\WB Sistemas\source\repos\Usuario\ConsoleApp\bin\Debug\Datos.dll
+C:\Users\WB Sistemas\source\repos\Usuario\ConsoleApp\bin\Debug\Entidades.dll
+C:\Users\WB Sistemas\source\repos\Usuario\ConsoleApp\bin\Debug\Datos.pdb
+C:\Users\WB Sistemas\source\repos\Usuario\ConsoleApp\bin\Debug\Datos.dll.config
+C:\Users\WB Sistemas\source\repos\Usuario\ConsoleApp\bin\Debug\Entidades.pdb
+C:\Users\WB Sistemas\source\repos\Usuario\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\WB Sistemas\source\repos\Usuario\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete

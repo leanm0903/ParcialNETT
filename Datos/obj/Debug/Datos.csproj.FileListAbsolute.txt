@@ -1,0 +1,10 @@
+C:\Users\WB Sistemas\source\repos\Usuario\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\WB Sistemas\source\repos\Usuario\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\WB Sistemas\source\repos\Usuario\Datos\bin\Debug\Datos.dll.config
+C:\Users\WB Sistemas\source\repos\Usuario\Datos\bin\Debug\Datos.dll
+C:\Users\WB Sistemas\source\repos\Usuario\Datos\bin\Debug\Datos.pdb
+C:\Users\WB Sistemas\source\repos\Usuario\Datos\bin\Debug\Entidades.dll
+C:\Users\WB Sistemas\source\repos\Usuario\Datos\bin\Debug\Entidades.pdb
+C:\Users\WB Sistemas\source\repos\Usuario\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\WB Sistemas\source\repos\Usuario\Datos\obj\Debug\Datos.dll
+C:\Users\WB Sistemas\source\repos\Usuario\Datos\obj\Debug\Datos.pdb
